@@ -1,1 +1,3 @@
-Esot es el segundo archivo, verificar que se suben los cambios al repositorio configurado
+Esto es el segundo archivo, verificar que se suben los cambios al repositorio configurado.
+
+Se actualiza el contenido desde el repositorio. Actualizar los cambios del repositorio en el proyecto local con git pull
